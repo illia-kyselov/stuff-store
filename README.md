@@ -10,8 +10,6 @@ https://fakeapi.platzi.com/en/rest/introduction
 
 https://www.figma.com/file/7itpNsHVP5LPUpK4ENDYkv/Shop?node-id=0%3A1&t=i8nKSaWzeNTqTOnX-0
 
-
-
 # Demo:
 
-
+https://master--inquisitive-licorice-465213.netlify.app/
